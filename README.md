@@ -14,5 +14,5 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Anh rất là yêu em <3333.',
-    btnAccept: 'Okiiiii lunn nạ <3',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'http://fb.com'
